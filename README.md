@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Hon!;Software+Engineer+%F0%9F%92%BB+%7C+AI+Researcher+%F0%9F%A7%96%E2%99%82%EF%B8%8F+%7C+Author+%F0%9F%93%9A;Exploring+Space+%F0%9F%9A%80+with+Code+and+Curiosity+%F0%9F%94%8D" alt="Animated typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=60&lines=Hi+I'm+Ritesh+Hon;Software+Engineer+%F0%9F%92%BB+%7C+AI+Researcher+%F0%9F%A7%96%E2%99%82%EF%B8%8F+%7C+Author+%F0%9F%93%9A;Exploring+Space+%F0%9F%9A%80+with+Code+and+Curiosity+%F0%9F%94%8D" alt="Animated typing banner" />
 </p>
 
 <h3 align="center">🚀 Building tech that travels from Earth to the edge of the universe 🌌</h3>
